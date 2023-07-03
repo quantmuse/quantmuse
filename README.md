@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Langchain, building a trading system and how to quantify sustainability
 - 💞️ I’m looking to collaborate on any interesting projects covering the areas above
 - 📫 How to reach me: quantmusenet@gmail.com
-- 📝 Check out my substack: [quantesg.substack.com](https://www.quantesg.substack.com)
+- 📝 Check out my substack: [quantesg.substack.com](https://quantesg.substack.com)
 
 <!---
 quantmuse/quantmuse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @quantmuse
-- 👀 I’m interested in quant finance, investing, sustainability, machine learning and data science
-- 🌱 I’m currently learning Langchain, building a trading system and applying data science to sustainability
+- 👀 I’m interested in applying data science to sustainability
 - 📫 How to reach me: quantmusenet@gmail.com
 - 📝 Check out my substack: [quantesg.substack.com](https://quantesg.substack.com)
 
